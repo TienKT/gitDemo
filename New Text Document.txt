@@ -1,0 +1,2 @@
+1. Tạo database theo dõi file
+git init 
